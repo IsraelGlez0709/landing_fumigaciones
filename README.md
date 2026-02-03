@@ -2,7 +2,7 @@
 
 > Landing page profesional y responsiva desarrollada para **PLAGA Soluciones**, empresa especializada en el manejo integrado de plagas, desinfección y venta de equipos en Tehuacán, Puebla.
 
-![PLAGA Preview](./assets/portada.jpg)
+![PLAGA Preview](./assets/logo.png)
 
 ## Descripción del Proyecto
 
